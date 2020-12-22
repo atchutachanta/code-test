@@ -24,7 +24,7 @@ http://localhost:9090/accountHolders
 Get accountHolder and accounts by id
 http://localhost:9090/accountHolder/1
 
-Create Accounts for a accountHolder
+Create Accounts for AccountHolder
 -----------------------------------
 POST Request : 
 http://localhost:9090/account
@@ -41,7 +41,7 @@ http://localhost:9090/account
  Get an account and Transactions by id 
  http://localhost:9090/account/3
  
-Create a Transaction
+Create a Transaction for Account
 -----------------------------------
 POST Request : 
  http://localhost:9090/transaction
